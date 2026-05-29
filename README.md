@@ -67,7 +67,7 @@ streakforge/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/streakforge.git
+git clone https://github.com/BlazingTwister/streakforge.git
 cd streakforge
 npm install
 cp .env.example .env
